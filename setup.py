@@ -90,7 +90,7 @@ setup(
             'docutils>=0.12',
         ],
         'dnsaas': [
-            'Django>=1.8.13,<1.9',
+            'Django==1.8.17',
             'django-extensions==1.6.7',
             # 3.3.3 includes bug, https://github.com/rtfd/readthedocs.org/issues/2101
             'djangorestframework==3.3.2',
